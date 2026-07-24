@@ -3,7 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "add:anon-kit": "npx shadcn@latest add lirbank/anon-kit/anon-kit#recipe"
   },
   "devDependencies": {
     "prettier": "^3.9.6",
