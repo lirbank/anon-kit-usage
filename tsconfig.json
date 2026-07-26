@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "types": ["node"],
     "moduleDetection": "force",
     "verbatimModuleSyntax": true,
     "erasableSyntaxOnly": true,
